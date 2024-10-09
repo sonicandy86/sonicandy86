@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sonicandy86
 - 👀 I’m interested in reading, gyming, hillwalking ...
 - 🌱 I’m currently learning Python and R
-- 📫 How to reach me sonicandy@gmail.com
 - ⚡ Fun fact: I applied for the Great British Bake Off a few years ago even though I wasn't selected, I was still honoured to get the initial phonecall.
 
 <!---
